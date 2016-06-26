@@ -1,7 +1,12 @@
-This is a a forking and morphing program
-Developed by Placido Macosso at April 06
+The Objectives of the following program are to do:
+a. Process	spawning		
+b. Program	Morphing
+c. Inter	process	communication
+d. Usage	of	signals
+
+Developed by Placido Macosso at April 06 2015
 This software is divides in 4 files
-compile using "gcc -Wall -o mu -std=c99 multipleSpawn.c
+To compile you can use "gcc -Wall -o mu -std=c99 multipleSpawn.c
 " then "./mu 1 2 3 4 5"
-There were some issues
+
 You can run at at command line
