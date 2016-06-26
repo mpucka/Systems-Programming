@@ -9,4 +9,4 @@ This software is divides in 4 files
 To compile you can use "gcc -Wall -o mu -std=c99 multipleSpawn.c
 " then "./mu 1 2 3 4 5"
 
-You can run at at command line
+
